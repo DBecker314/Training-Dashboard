@@ -1,8 +1,7 @@
 # Training Dashboard
 
 ### Overview
-
-The goal of this project was to display company training data to identify where employees were struggling the most.
+The customer desired a trend analysis of test results. However, the proprietary nature of the test categories and sub-categories required that the customer first rename, or “cloak,” the data. The goal of this project was to display trends in the data and show which categories had the lowest results.
 
 ### Data
 
